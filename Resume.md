@@ -29,7 +29,7 @@
 
 #### Css　+　Js　实现皮卡丘
 
-##### 介绍 `Css` `JavaScript`
+##### 作品介绍 `Css` `JavaScript`
 
 皮卡丘动态演示是基于
 
