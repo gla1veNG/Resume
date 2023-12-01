@@ -5,4 +5,5 @@
 * 教育水平：本科 | 广东东软学院 | 软件工程
 * 联系电话 & 微信：+86 132 4619 9667
 * Email: 2993078435@qq.com
+* Gitee: https://gitee.com/T1R
 * Github: https://github.com/gla1veNG
