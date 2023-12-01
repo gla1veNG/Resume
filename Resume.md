@@ -12,5 +12,5 @@
 #### 前端
 - 熟练使用 HTML(5) + CSS(3)，具备处理复杂布局的能力；
 - 熟练使用 Sass/Scss 等 CSS 预处理器协助组织样式
-- 熟悉 JavaScript 基本特性及原型，熟练掌握 ES6+ 的语法和 DOM 操作，懂得使用 TypeScript；
+- 熟悉 JavaScript 基本特性及原型，熟练掌握 ES6+ 的语法 和 DOM 操作，懂得使用 TypeScript；
 - 
