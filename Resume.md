@@ -19,3 +19,8 @@
 - 熟练使用 jQuery 工具库，熟悉 jQuery 中的设计模式；
 - 熟练使用 Vue 前端开发框架,掌握 Vue-router 和 Vuex 的使用，了解 Vue3 的性能；
 - 熟悉 Webpack, Cmder, Vue CLI, Npm, Yarn 和 Parcel 等主流工程化工具；
+
+#### 后端
+
+-熟悉部分 Node.js 的核心模块，能够简单的使用 Node.js；
+-熟悉 SQL 语句及用法,会使用 MySQL 数据库；
