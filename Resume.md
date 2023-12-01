@@ -13,4 +13,5 @@
 - 熟练使用 HTML(5) + CSS(3)，具备处理复杂布局的能力；
 - 熟练使用 Scss 等 CSS 预处理器协助组织样式
 - 熟悉 JavaScript 基本特性及原型，熟练掌握 ES6+ 的语法 和 DOM 操作，懂得使用 TypeScript；
-- 
+- 熟悉 Webpack, Gulp, Parcel 等主流工程化工具；
+- 熟悉 Webpack, Cmder, Vue CLI, npm / Yarn 和 Parcel 等主流工程化工具；
