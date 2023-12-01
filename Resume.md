@@ -27,7 +27,11 @@
 
 ## 个人作品
 
-### Css+Js实现皮卡丘
+#### Css　+　Js　实现皮卡丘
+
+##### 介绍 `Css` `JavaScript`
+
+皮卡丘动态演示是基于
 
 - 源码部分：https://gitee.com/T1R/PiKaChu
 - 效果演示：https://t1r.gitee.io/pikachu/dist/
@@ -35,4 +39,4 @@
 - 皮卡丘动态源码部分：https://gitee.com/T1R/PiKaChu-Dynamic
 - 皮卡丘动态效果演示：https://t1r.gitee.io/pikachu-dynamic/dist/test.html
 
-皮卡丘动态演示是基于
+
