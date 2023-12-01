@@ -39,7 +39,7 @@
 - 皮卡丘动态源码部分：https://gitee.com/T1R/PiKaChu-Dynamic
 - 皮卡丘动态效果演示：https://t1r.gitee.io/pikachu-dynamic/dist/test.html
 
-#### Js实现canvas画板
+#### Js 实现 Canvas 画板
 
 #### 作品介绍 `JavaScript`
 
