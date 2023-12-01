@@ -52,7 +52,7 @@ Canvas 画板我首先的思路是先在页面画出点，然后再画线。
 
 #### 南瓜导航
 
-#### 作品介绍 `flex布局` `JavaScript`
+#### 作品介绍 `Flex布局` `JavaScript`
 
 
 
