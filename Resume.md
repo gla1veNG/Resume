@@ -61,7 +61,7 @@ Canvas 画板我首先的思路是先在页面画出点，然后再画线。
 
 #### 马内记账
 
--作品介绍 `Vue` `vue-property-decorator` `TypeScript` `Webpack`
+- 作品介绍 `Vue` `vue-property-decorator` `TypeScript` `Webpack`
 
 
 
