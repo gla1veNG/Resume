@@ -14,7 +14,7 @@
 #### 前端
 
 - 熟练使用 HTML(5) + CSS(3)，具备处理复杂布局的能力；
-- 熟练使用 Sass / Scss 等 CSS 预处理器协助组织样式
+- 熟练使用 Sass / Scss 等 CSS 预处理器协助组织样式；
 - 熟悉 JavaScript 基本特性及原型，熟练掌握 ES6+ 的语法 和 DOM 操作，懂得使用 TypeScript；
 - 熟练使用 jQuery 工具库，熟悉 jQuery 中的设计模式；
 - 熟练使用 Vue 前端开发框架,掌握 Vue-router 和 Vuex 的使用，了解 Vue3 的性能；
