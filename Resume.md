@@ -2,7 +2,7 @@
 
 ## 个人信息
 
-- 姓名：朱懋南
+- 姓名：朱懋南 | 男 | 惠州
 - 教育水平：本科 | 广东东软学院 | 软件工程
 - 联系电话 & 微信：+86 132 4619 9667
 - Email: 2993078435@qq.com
@@ -63,7 +63,7 @@
 
 - 作品介绍 `Vue CLI` `Vue` `vue-property-decorator` `TypeScript` `Webpack`
 
-  “马内记账”是一款极简的记账应用，是基于Vue、VueRouter、Vuex和TypeScript的单页面应用。 “马内记账”是由本人独立设计及实现，期间又碰到很多webpack、TypeScript方面的问题，我把解决方法写在了[博客](https://www.yuque.com/u5007739/os13zh/sm6x5p0aeik33q9u)。 本代码是完全用TypeScript实现，用Vuex做了全局数据管理。
+  “马内记账”是一款极简的记账应用，是基于Vue、VueRouter、Vuex 和 TypeScript 的单页面应用。 “马内记账”是由本人独立设计及实现，期间又碰到很多 webpack、TypeScript方面的问题，我把解决方法写在了[博客](https://www.yuque.com/u5007739/os13zh/sm6x5p0aeik33q9u)。 本代码是完全用TypeScript实现，用Vuex做了全局数据管理。
 
 - 源码部分：https://gitee.com/T1R/Ma-nei
 - 效果演示：http://t1r.gitee.io/manei/#/money
