@@ -63,6 +63,8 @@ Canvas 画板我首先的思路是先在页面画出点，然后再画线。
 
 - 作品介绍 `Vue` `vue-property-decorator` `TypeScript` `Webpack`
 
+“马内记账”是一款极简的记账应用，是基于Vue、VueRouter、Vuex和TypeScript的单页面应用。 “马内记账”是由本人独立设计及实现，期间又碰到很多webpack、TypeScript方面的问题，我把解决方法写在了[博客]()。 本代码是完全用TypeScript实现，用Vuex做了全局数据管理。
+
 
 
 
